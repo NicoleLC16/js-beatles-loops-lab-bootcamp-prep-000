@@ -2,7 +2,9 @@
 
 
 function theBeatlesPlay (musicians, instruments) {
-  var emptyArray = [];
-  for (let i=1; i<; i++)
+  var emptyArray = [`$(musicians) plays $(instruments)`];
+  for (let i=0; i < 3; i++) {
+    console.log (emptyArray);
+  }
   
 }
