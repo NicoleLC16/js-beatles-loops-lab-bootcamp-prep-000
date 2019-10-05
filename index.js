@@ -2,8 +2,8 @@
 
 
 function theBeatlesPlay (musicians, instruments) {
-  var emptyArray = ["John Lennon plays guitar"];
-  for (let i=1; i < 3; i++) {
+  var emptyArray = [];
+  for (let i=0; i < musicians.length; i++) {
     
     if (i === 0) {
       console.log (emptyArray);
