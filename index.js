@@ -26,5 +26,5 @@ var i = 0
     
   }
   
-  return 
+  return facts
 }
