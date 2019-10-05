@@ -17,7 +17,7 @@ function johnLennonFacts (facts) {
 var exclamationFacts = [];
 var i = 0
   while (i > facts.length) {
-    exclamationFacts.push(`${facts[i]}!!!`) 
+    exclamationFacts.push(`${facts[i]}!!!`); 
     i++
     
   }
