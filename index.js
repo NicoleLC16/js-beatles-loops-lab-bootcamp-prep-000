@@ -9,7 +9,9 @@ function theBeatlesPlay (musicians, instruments) {
     if (i === 0) {
       console.log (emptyArray);
       
-      else 
+      else {
+        
+      }
     }
   }
   
