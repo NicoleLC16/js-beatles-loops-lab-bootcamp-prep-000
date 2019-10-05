@@ -20,6 +20,7 @@ function johnLennonFacts () {
   "He hated the sound of his own voice"
 ];
 
+var exclamationFacts = [];
 var i = 0
   while (i > facts.length) {
     console.log (facts[i] + "!!!";)
