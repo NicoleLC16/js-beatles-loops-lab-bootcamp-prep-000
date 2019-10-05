@@ -20,8 +20,9 @@ function johnLennonFacts () {
   "He hated the sound of his own voice"
 ];
 
-var i =
-  while (>0) {
+var i = 0
+  while (i > facts.length) {
+    console.log (--facts.length + "!!!")
     
   }
   
