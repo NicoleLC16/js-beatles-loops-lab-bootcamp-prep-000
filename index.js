@@ -7,10 +7,10 @@ function theBeatlesPlay (musicians, instruments) {
     
     if (i === 0) {
       console.log (emptyArray);
-      
+    }
       else {
         console.log (`$(musicians) plays $(instruments)`);
-      }
+      
     }
   }
   
