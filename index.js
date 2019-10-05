@@ -33,7 +33,7 @@ function incrementVariable() {
   
 do {
   emptyArray.push(`I love the Beatles!`);
-} while (incrementalVariable() < 15);
+} while (number< 15);
 
 return emptyArray
 }
