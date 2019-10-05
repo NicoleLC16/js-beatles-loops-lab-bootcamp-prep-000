@@ -6,7 +6,11 @@ function theBeatlesPlay (musicians, instruments) {
   for (let i=0; i < 3; i++) {
     console.log (`$(musicians) plays $(instruments)`);
     
-    if (i === 0)
+    if (i === 0) {
+      console.log (emptyArray);
+      
+      else 
+    }
   }
   
 }
