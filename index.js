@@ -16,4 +16,6 @@ function johnLennonFacts () {
   while () {
     
   }
+  
+  return 
 }
