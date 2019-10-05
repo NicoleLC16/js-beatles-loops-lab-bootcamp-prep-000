@@ -15,8 +15,16 @@ function johnLennonFacts (facts) {
   var exclamationFacts = [];
   let i = 0;
   while(i<facts.length){
-    exclamationFacts.push(`${facts[i]}!!!`)
-    i++
+    exclamationFacts.push(`${facts[i]}!!!`);
+    i++;
   }
   return exclamationFacts;
+}
+
+function iLoveTheBeatles (number) {
+  emptyArray = [];
+  
+  do {
+    
+  }
 }
